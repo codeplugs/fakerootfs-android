@@ -48,7 +48,7 @@ export LINKER
 # APP INFO
 export PKG="com.rootfs.android"
 export PKG_PATH="/data/app/com.rootfs.android/base.apk"
-export NATIVE_LIB_DIR="/data/app/com.rootfs.android/lib"
+export NATIVE_LIB_DIR="/data/app/~~0Tn4vBdxW8FT4LdF__Ideg==/com.rootfs.android-rDSqyUiIVOZPixdhSG-wyA==/lib/arm64"
 
 export DEBUG="false"
 
